@@ -6,12 +6,11 @@ Exercícios e programas em Python feitos na disciplina MC102 na Unicamp
 
 ## Conteúdo
 
-| `01-basico/` | Entrada e saída, variáveis, operadores |
-| `02-condicionais/` | if/elif/else |
-| `03-repeticao/` | Laços for e while |
-| `04-listas/` | Listas, matrizes e strings |
-| `05-funcoes/` | Funções e recursão |
-| `06-arquivos/` | [se tiver: leitura e escrita de arquivos] |
+| `tarefa05` | Utiliza tuplas e testa funções |
+| `tarefa06` | Chama funções e abre arquivos |
+| `tarefa07` | Otimiza a passagem por matrizes |
+| `tarefa08` | Usa dicionário pra gerenciar arquivo |
+| `tarefa10` | Funções e recursão, otimizando o código |
 
 ## Como rodar
 
